@@ -130,6 +130,27 @@ section{
     height: 25px;
 }
 
+.flexbox1-3_1{
+    background-color: #061019;
+    border: 1px solid #1ea1f1;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flexbox1-3_2{
+    background-color: #1ea1f1;
+    width: 25px;
+    height: 25px;
+}
+
+.flexbox1-3_3{
+    background-color: white;
+    width: 25px;
+    height: 25px;
+}
+
 .flexbox2_1{
     background-color: #061019;
     border: 1px solid #1ea1f1;
